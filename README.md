@@ -1,2 +1,2 @@
-# Webscrapping-projects
-Collection of my webscrapping projects
+# Webscraping-projects
+Collection of my webscraping projects
